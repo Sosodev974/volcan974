@@ -1,0 +1,14 @@
+{
+  "name": "projet-3-sass",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.40.0"
+  }
+}
